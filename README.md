@@ -44,7 +44,7 @@ otherwise the aplication uses the format by default.
 
 **For tests**
 
-You can use the text files which is placed in the project: 
+You can use the text files which are placed in the project: 
 ```employees.txt``` (default format) or ```employees1.txt``` (`dd/MM/yyyy` format).
 
 ## Getting Started
