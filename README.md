@@ -57,7 +57,7 @@ You can use the text files which is placed in the project:
 
 #### Repository URL
 ```
-https://github.com/ivelin1936/Ivelin-Dimitrov-employees.git
+https://github.com/TanyaRadeva/Tanya-Radeva-employees
 ```
 
 ## Technologies
@@ -71,7 +71,7 @@ https://github.com/ivelin1936/Ivelin-Dimitrov-employees.git
 ## Author
 
 **Tanya Radeva** 
-* [GitHub](https://github.com/ivelin1936)
+* [GitHub](https://github.com/TanyaRadeva)
 * [LinkedIn](https://www.linkedin.com/in/tanya-radeva-b841b320a/)
 
 ## License
